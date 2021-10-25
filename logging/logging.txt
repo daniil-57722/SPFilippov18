@@ -1,0 +1,6 @@
+окт. 25, 2021 2:32:30 PM MultiplyFromFile main
+INFO: Program started
+окт. 25, 2021 2:32:30 PM MultiplyFromFile main
+INFO: File reading: 23 * 5
+окт. 25, 2021 2:32:30 PM MultiplyFromFile multiply
+INFO: result >>  115
